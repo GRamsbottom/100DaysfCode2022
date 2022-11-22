@@ -17,19 +17,19 @@ Usually less than 200 lines of code
 No libraries or frameworks
 Projects will utilize different combinations of languages for project goal
 
-Simple Project 1: Digital Clock
-Simple Project 2: ToDo App
-Simple Project 3: Recipes App (My recipes list)
-Simple Project 4: Static Website 1: Personal
-Simple Project 5: Static Website 1: Business (Drone)
+### Simple Project 1: Digital Clock
+### Simple Project 2: ToDo App
+### Simple Project 3: Recipes App (My recipes list)
+### Simple Project 4: Static Website 1: Personal
+### Simple Project 5: Static Website 1: Business (Drone)
 
 ### Level 2 - Intermediate Projects
-Do more than 5 things
-No more than 500 lines of code
-Zero to minimal use of frameworks/libraries
-Video Games (snake, space invaders, tetris)
-Calculator
-Website Scraper
+### Do more than 5 things
+### No more than 500 lines of code
+### Zero to minimal use of frameworks/libraries
+### Video Games (snake, space invaders, tetris)
+### Calculator
+### Website Scraper
 
 Intermediate Project 1: Video Game
 Intermediate Project 2: Employee Time Clock
@@ -45,5 +45,6 @@ IS INTERESTING
 Social media clone (New Twitter)
 E-commerce store
 
-Capstone Project 1: E-Commerce Store
-Capstone Project 2: Twitter Clone
+### Capstone Project 1: E-Commerce Store
+### Capstone Project 2: Twitter Clone
+
