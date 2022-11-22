@@ -5,17 +5,17 @@ This repository will consist of daily work in the form of multiple projects of v
 
 ## Methodology
 Project Based - Including programming projects on a portfolio shows that I am:
-self-motivated and able to finish a challenging task from start to finish
-actively using your programming skills
-continuing to learn new frameworks and languages
-Differing project size and difficulty shows adaptability to a business problem
+- self-motivated and able to finish a challenging task from start to finish
+- actively using your programming skills
+- continuing to learn new frameworks and languages
+- familiar with differing project size and difficulty showing adaptability to a business problem
 
 ## Projects
 ### Level 1 - “Simple” Projects
-Contains less than 5 functionalities (user stories)
-Usually less than 200 lines of code
-No libraries or frameworks
-Projects will utilize different combinations of languages for project goal
+- Contains less than 5 functionalities (user stories)
+- Usually less than 200 lines of code
+- No libraries or frameworks
+- Projects will utilize different combinations of languages for project goal
 
 ### Simple Project 1: Digital Clock
 ### Simple Project 2: ToDo App
@@ -24,26 +24,26 @@ Projects will utilize different combinations of languages for project goal
 ### Simple Project 5: Static Website 1: Business (Drone)
 
 ### Level 2 - Intermediate Projects
-### Do more than 5 things
-### No more than 500 lines of code
-### Zero to minimal use of frameworks/libraries
-### Video Games (snake, space invaders, tetris)
-### Calculator
-### Website Scraper
+- Do more than 5 things
+- No more than 500 lines of code
+- Zero to minimal use of frameworks/libraries
+- Video Games (snake, space invaders, tetris)
+- Calculator
+- Website Scraper
 
-Intermediate Project 1: Video Game
-Intermediate Project 2: Employee Time Clock
-Intermediate Project 3: Calculator
-Intermediate Project 4: Web Scraper
+### Intermediate Project 1: Video Game
+### Intermediate Project 2: Employee Time Clock
+### Intermediate Project 3: Calculator
+### Intermediate Project 4: Web Scraper
 
 ### Level 3 - Capstone Project
-Does 10 or more things
-Use integrations (Database, API)
-Use multiple libraries or frameworks
-500 lines or more of code
-IS INTERESTING
-Social media clone (New Twitter)
-E-commerce store
+- Does 10 or more things
+- Use integrations (Database, API)
+- Use multiple libraries or frameworks
+- 500 lines or more of code
+- IS INTERESTING
+- Social media clone (New Twitter)
+- E-commerce store
 
 ### Capstone Project 1: E-Commerce Store
 ### Capstone Project 2: Twitter Clone
