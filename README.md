@@ -18,6 +18,14 @@ Project Based - Including programming projects on a portfolio shows that I am:
 - Projects will utilize different combinations of languages for project goal
 
 ### Simple Project 1: Digital Clock
+
+I will create a digital clock using javascript logic and html/css for displaying time info. The approach is to use the date object to get time on every second and then re-rendering time on the browser using the new time that we got by calling the same function each second. Starting with a javascript based app to increase skill of language.
+
+Objectives:
+- Create a User interface involving some graphics displaying time
+- Implement the Digital Clock to show the correct time
+- Able to switch to different U.S. timezones
+
 ### Simple Project 2: ToDo App
 ### Simple Project 3: Recipes App (My recipes list)
 ### Simple Project 4: Static Website 1: Personal
